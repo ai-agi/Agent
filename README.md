@@ -1,7 +1,5 @@
 # _Large Language Models Based Autonomous Agent: A Survey_
 
- `arXiv`.
-
 ## **Large Language Model Based Agent**
 
 ### 1. The Core Differences and Characteristics Between LLM-based AI agents and Traditional AI Agents
