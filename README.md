@@ -12,7 +12,3 @@
 * [2023/09/14] The Rise and Potential of Large Language Model Based Agents: A Survey. _Xi Z, Chen W, Guo X, et al._. `arXiv`. [\[pdf\]](https://arxiv.org/pdf/2309.07864.pdf) [\[code\]](https://arxiv.org/pdf/2309.07864.pdf)
   * This work presented a general framework for LLM-based agents, comprising three main components: brain, perception, and action, and the framework can be tailored for different applications. Thus they explored the behavior and personality of LLM agents, thereby discussing the insights they provide into human society.
 
-### 3. The behavior and personality of LLM agents
-
-* [2023/09/14] The Rise and Potential of Large Language Model Based Agents: A Survey. _Xi Z, Chen W, Guo X, et al._. `arXiv`. [\[pdf\]](https://arxiv.org/pdf/2309.07864.pdf) [\[code\]](https://arxiv.org/pdf/2309.07864.pdf)
-  * This work presented a general framework for LLM-based agents, comprising three main components: brain, perception, and action, and the framework can be tailored for different applications. Thus they explored the behavior and personality of LLM agents, thereby discussing the insights they provide into human society.
