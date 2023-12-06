@@ -9,6 +9,10 @@
 
 ### 2. The behavior and personality of LLM agents
 
-* [2023/09/14] The Rise and Potential of Large Language Model Based Agents: A Survey. _Xi Z, Chen W, Guo X, et al._. `arXiv`. [\[pdf\]](https://arxiv.org/pdf/2309.07864.pdf) [\[code\]](https://arxiv.org/pdf/2309.07864.pdf)
+* [2023/09/14] The Rise and Potential of Large Language Model Based Agents: A Survey. _Xi, Zhiheng, et al_. `arXiv`. [\[pdf\]](https://arxiv.org/pdf/2309.07864.pdf) [\[code\]](https://arxiv.org/pdf/2309.07864.pdf)
   * This work presented a general framework for LLM-based agents, comprising three main components: brain, perception, and action, and the framework can be tailored for different applications. Thus they explored the behavior and personality of LLM agents, thereby discussing the insights they provide into human society.
 
+### 3. A LLM-powered agent that leverages LLMs to connect various AI models to solve AI tasks
+
+* [2023/03/30] HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face. _Shen, Yongliang, et al_. `arXiv`. [\[pdf\]](https://arxiv.org/pdf/2303.17580.pdf) [\[code\]](https://arxiv.org/pdf/2303.17580.pdf)
+  * This work advocated that LLMs could act as a controller to manage existing AI models to solve complicated AI tasks, with language serving as a generic interface to empower this. 
