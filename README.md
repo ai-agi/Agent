@@ -16,3 +16,8 @@
 
 * [2023/03/30] HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face. _Shen, Yongliang, et al_. `arXiv`. [\[pdf\]](https://arxiv.org/pdf/2303.17580.pdf) [\[code\]](https://arxiv.org/pdf/2303.17580.pdf)
   * This work advocated that LLMs could act as a controller to manage existing AI models to solve complicated AI tasks, with language serving as a generic interface to empower this. 
+
+### 4. diffusion models and a novel framework tailored for character animation
+
+* [2023/11/17] Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation. _Hu, Li, et al_. `arXiv`. [\[pdf\]](https://arxiv.org/pdf/2311.17117.pdf) [\[code\]](https://arxiv.org/pdf/2311.17117.pdf)
+  * This work designed ReferenceNet to merge detail features via spatial attention and introduced an efficient pose guider to direct character's movements and employ an effective temporal modeling approach to ensure smooth inter-frame transitions between video frames.
